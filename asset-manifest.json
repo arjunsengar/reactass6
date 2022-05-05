@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactass6/static/css/main.6a1e0521.css",
+    "main.js": "/reactass6/static/js/main.3dcb94c9.js",
+    "index.html": "/reactass6/index.html",
+    "main.6a1e0521.css.map": "/reactass6/static/css/main.6a1e0521.css.map",
+    "main.3dcb94c9.js.map": "/reactass6/static/js/main.3dcb94c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1e0521.css",
+    "static/js/main.3dcb94c9.js"
+  ]
+}
